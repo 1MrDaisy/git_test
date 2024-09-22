@@ -1,0 +1,2 @@
+
+Adding some random text to test the git commit functions
